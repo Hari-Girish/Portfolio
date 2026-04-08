@@ -84,7 +84,7 @@ export function HeroSection() {
                 View My Work
               </Link>
               <a
-                href="https://github.com/harigirish"
+                href="https://github.com/Hari-Girish"
                 target="_blank"
                 rel="noreferrer"
                 aria-label="GitHub"
@@ -96,7 +96,7 @@ export function HeroSection() {
                 </svg>
               </a>
               <a
-                href="https://linkedin.com/in/harigirish"
+                href="https://www.linkedin.com/in/hari-girish-4611432a2/"
                 target="_blank"
                 rel="noreferrer"
                 aria-label="LinkedIn"
