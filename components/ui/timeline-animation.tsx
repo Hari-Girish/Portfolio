@@ -33,7 +33,7 @@ export function TimelineContent({
   children,
   ...props
 }: TimelineContentProps) {
-  const MotionTag = motion(Tag as React.ElementType);
+  const MotionTag = motion.create(Tag as React.ElementType);
   const variants = customVariants ?? defaultVariants;
 
   return (
